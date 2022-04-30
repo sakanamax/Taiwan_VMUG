@@ -1,5 +1,15 @@
 # for Taiwan VMUG Event
 
+
+# 2022 年
+
+---------------------------
+
+3 月份 VMUG Taiwan 聚會 2022-03
+
+* 相關資料於 2022/20220330/
+* 活動網頁 https://my.vmug.com/s/community-event?id=a1Y4x00000029mdEAA  
+
 # 2021 年
 
 ---------------------------
